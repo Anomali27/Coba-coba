@@ -1,0 +1,16 @@
+* {
+    background-color: violet;
+    margin: 0;
+    padding: 0;
+}
+
+.gatau {
+    font-size: 2000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: chocolate;
+}
+
